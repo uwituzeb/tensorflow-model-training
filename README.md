@@ -2,6 +2,11 @@
 
 Tensorflow model training using mnsit dataset
 
+## collaborators
+
+1. Eliane Munezero
+2. Bernice Uwituze
+
 ## Colab version history
 
 ![Screenshot 2025-01-21 222729](https://github.com/user-attachments/assets/59a84d93-20c9-4aa3-9a2c-3af1a3c100f0)
